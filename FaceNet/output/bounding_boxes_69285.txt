@@ -1,0 +1,11 @@
+output/image1/BhxWutnCEAAtEQ6_0.png 173 110 296 264
+output/image1/BhxWutnCEAAtEQ6_1.png 281 115 438 314
+output/image1/BhxWutnCEAAtEQ6_2.png 260 10 349 119
+output/image1/BhxWutnCEAAtEQ6_3.png 327 0 436 98
+output/image1/BhxWutnCEAAtEQ6_4.png 37 18 167 170
+output/image1/BhxWutnCEAAtEQ6_5.png 187 7 286 127
+output/image1/BhxWutnCEAAtEQ6_6.png 420 72 542 212
+output/image1/BhxWutnCEAAtEQ6_7.png 120 7 211 117
+output/image1/BhxWutnCEAAtEQ6_8.png 391 16 480 118
+output/image1/BhxWutnCEAAtEQ6_9.png 112 90 228 231
+output/image1/BhxWutnCEAAtEQ6_10.png 444 7 546 117
