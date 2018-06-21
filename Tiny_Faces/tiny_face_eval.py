@@ -10,7 +10,11 @@ from argparse import ArgumentParser
 import cv2
 import scipy.io
 import numpy as np
+
+import matplotlib
+matplotlib.use("agg")
 import matplotlib.pyplot as plt
+
 import cv2
 import pickle
 
@@ -89,7 +93,7 @@ def evaluate(weight_file_path, data_dir, output_dir, prob_thresh=0.5, nms_thresh
 
   # Load an average image and clusters(reference boxes of templates).
   with open(weight_file_path, "rb") as f:
-    _, mat_params_dict = pickle.load(f)
+    _, mat_params_dict = pickle.load(f,encoding='latin1')
 
   average_image = model.get_data_by_key("average_image")
   clusters = model.get_data_by_key("clusters")

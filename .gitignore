@@ -1,1 +1,3 @@
 Tiny_Faces/weights.pkl
+Tiny_Faces/testimages/*
+Tiny_Faces/predictedimages/*
